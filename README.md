@@ -5,7 +5,7 @@ Welcome to the Wine Quality Prediction project, a part of my vital internship wi
 
 ## About the Project
 
-Wine quality assessment is crucial in the wine industry, as it directly influences the market value and consumer satisfaction. Traditionally, wine quality assessment has been done through the expertise of sommeliers and wine experts. However, with the advent of machine learning and data analysis, we can explore new methods for wine quality prediction that are objective, consistent, and efficient.
+Wine quality assessment is crucial in the wine industry, as it directly influences market value and consumer satisfaction. Traditionally, wine quality assessment has been done through the expertise of sommeliers and wine experts. However, with the advent of machine learning and data analysis, we can explore new methods for wine quality prediction that are objective, consistent, and efficient.
 
 In this project, we use Linear Regression, a fundamental machine learning algorithm, to build a predictive model. We collect and analyze data from various sources, including factors like acidity, residual sugar, pH, alcohol content, and more. By training our model on historical data that includes wine quality ratings, we can predict the quality of new, unseen wines.
 
@@ -24,13 +24,8 @@ In this project, we use Linear Regression, a fundamental machine learning algori
 ## Getting Started
 
 If you'd like to get involved in this project, follow these steps:
- **Clone the Repository**: Start by cloning this repository to your local machine.
 
-
-git clone https://github.com/yourusername/wine-quality-prediction.git
-
-
-2. **Requirements**: Make sure you have Python installed, and install the necessary packages using the provided requirements file.
+1. **Requirements**: Make sure you have Python installed, and install the necessary packages using the provided requirements file.
 
 
 pip install -r requirements.txt
@@ -39,7 +34,7 @@ pip install -r requirements.txt
  **Run the Jupyter Notebook**: Explore the Jupyter Notebook in the project directory to dive into the code and analysis.
 
 
-jupyter notebook Wine_Quality_Prediction.ipynb
+jupyter notebook Wine_quality_prediction.ipynb
 
 
 **Contribute**: Feel free to contribute by adding new features, improving the model, or suggesting enhancements.
